@@ -1,2 +1,2 @@
-# CSharp-Objects
-A collection of useful C# classes. This started because the framework does not have a Heap implementation.
+# BDC
+A collection of useful files that I have created or repurposed.
